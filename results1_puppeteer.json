@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Year-Round Internship Program",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/year-round-internship-program/",
+    "academicLevel": "Undergraduate, Graduate",
+    "session": "Any"
+  },
+  {
+    "name": "Maximizing Student Potential in STEM",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/maximizing-student-potential/",
+    "academicLevel": "Undergraduate, Graduate",
+    "session": "Any"
+  },
+  {
+    "name": "Summer Internship Program",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/",
+    "academicLevel": "Undergraduate, Graduate",
+    "session": "Summer"
+  },
+  {
+    "name": "JPL Visiting Student Research Program",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/visiting-student-research-program/",
+    "academicLevel": "Undergraduate, Graduate",
+    "session": "Any"
+  },
+  {
+    "name": "JPL Faculty Research Program",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/jpl-faculty-research-program/",
+    "academicLevel": "Faculty",
+    "session": "Any"
+  },
+  {
+    "name": "JPL Summer High School Internship Program",
+    "link": "",
+    "academicLevel": "High School",
+    "session": "Not Available"
+  },
+  {
+    "name": "Caltech Summer Undergraduate Research Fellowship",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/",
+    "academicLevel": "Undergraduate",
+    "session": "Summer"
+  },
+  {
+    "name": "NASA Summer Undergraduate Program for Planetary Research",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/nasa-summer-undergraduate-program-for-planetary-research/",
+    "academicLevel": "Undergraduate",
+    "session": "Summer"
+  },
+  {
+    "name": "Student Independent Research Intern",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/student-independent-research-intern/",
+    "academicLevel": "Undergraduate",
+    "session": "Fall, Spring"
+  },
+  {
+    "name": "STEM Teacher and Researcher Program",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/science-teacher-and-researcher-program/",
+    "academicLevel": "Undergraduate, Graduate, Faculty",
+    "session": "Summer"
+  },
+  {
+    "name": "NASA/IPAC Teacher Archive Research Program",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/nasa-ipac-teacher-archive-research-program/",
+    "academicLevel": "Formal and Informal Educators",
+    "session": "See details"
+  },
+  {
+    "name": "The Consortium for Undergraduate Research Experience",
+    "link": "",
+    "academicLevel": "Undergraduate",
+    "session": "Any"
+  },
+  {
+    "name": "NASA Community College Aerospace Scholars",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/nasa-community-college-aerospace-scholars/",
+    "academicLevel": "Undergraduate",
+    "session": "See details"
+  },
+  {
+    "name": "NASA Science Mission Design Schools",
+    "link": "https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/",
+    "academicLevel": "Graduate, Doctoral, Postdoc",
+    "session": "See details"
+  },
+  {
+    "name": "NASA Interns, Fellows and Scholars Programs",
+    "link": "https://intern.nasa.gov/",
+    "academicLevel": "Undergraduate, Graduate",
+    "session": "Fall, Spring, Summer"
+  }
+]
