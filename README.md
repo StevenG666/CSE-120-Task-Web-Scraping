@@ -4,16 +4,28 @@
 The repository is about implementing web scraping libraries that are native to Node.js to extract information about professional opportunities from various online websites, eventually stored in the JSON files. Two libraries will be used to scrape data on three website examples.
 
 ## Processes of Execution of the Project
-### (Currently Only) Puppeteer Library
+### Puppeteer Library
 1. Open a node.js file in an IDE (ie. VS Code)
 2. Make sure the package.json file is in the same directory as the node.js file
-3. Navigate to the current working directory through CLI/terminal
-4. type "node {name}.js" in the terminal
-5. Expected Behaviors:
+3. Make sure Puppeteer is installed with the command "npm install puppeteer"
+4. Navigate to the current working directory through CLI/terminal
+5. type "node {name}.js" in the terminal
+6. Expected Behaviors:
    1. The file will launch and open a Google Chrome browser with the corresponding website content and close immediately
    2. The information is scraped from outside sources and displays the nested structures of relevant data in the terminal window
    3. It will create a new JSON file containing all the data if there isn't one in the directory. Otherwise, it will rewrite the data
-   4. NOTE: one file only extracts data from one website and stores it in a separate JSON file. 
+   4. NOTE: one file only extracts data from one website and stores it in a separate JSON file.
+
+### Cheerio Library
+1. Open a node.js file in an IDE (ie. VS Code)
+2. Make sure the package.json file is in the same directory as the node.js file
+3. Make sure Cheerio is installed with the command "npm install cheerio"
+4. Navigate to the current working directory through CLI/terminal
+5. type "node {name}.js" in the terminal
+6. Expected Behaviors:
+   1. The information is scraped from outside sources and displays the nested structures of relevant data in the terminal window
+   2. It will create a new JSON file containing all the data if there isn't one in the directory. Otherwise, it will rewrite the data
+   3. NOTE: one file only extracts data from one website and stores it in a separate JSON file.
 
 ## Website Example Details
 ### Example 1: NASA Jet Propulsion Laboratory Internship: https://www.jpl.nasa.gov/edu/intern/apply
